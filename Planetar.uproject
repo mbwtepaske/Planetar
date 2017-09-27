@@ -1,0 +1,187 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5D50B97F-4283-3D7C-40FF-57BD378ED182}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Planetar",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+  "Plugins":
+  [
+    {
+      "Name": "DotNetCoreHost",
+      "Enabled": true 
+    },
+    {
+      "Name": "AlembicImporter",
+      "Enabled": false
+    },
+    {
+      "Name": "AndroidMedia",
+      "Enabled": false
+    },
+    {
+      "Name": "AndroidMoviePlayer",
+      "Enabled": false
+    },
+    {
+      "Name": "OnlineSubsystemGooglePlay",
+      "Enabled": false
+    },
+    {
+      "Name": "AndroidPermission",
+      "Enabled": false
+    },
+    {
+      "Name": "AppleMoviePlayer",
+      "Enabled": false
+    },
+    {
+      "Name": "ArchVisCharacter",
+      "Enabled": false
+    },
+    {
+      "Name": "AudioCapture",
+      "Enabled": false
+    },
+    {
+      "Name": "AvfMedia",
+      "Enabled": false
+    },
+    {
+      "Name": "CharacterAI",
+      "Enabled": false
+    },
+    {
+      "Name": "CodeLiteSourceCodeAccess",
+      "Enabled": false
+    },
+    {
+      "Name": "ExampleDeviceProfileSelector",
+      "Enabled": false
+    },
+    {
+      "Name": "HTML5Networking",
+      "Enabled": false
+    },
+    {
+      "Name": "FacialAnimation",
+      "Enabled": false
+    },
+    {
+      "Name": "GameplayTagsEditor",
+      "Enabled": false
+    },
+    {
+      "Name": "GoogleCloudMessaging",
+      "Enabled": false
+    },
+    {
+      "Name": "IOSDeviceProfileSelector",
+      "Enabled": false
+    },
+    {
+      "Name": "KDevelopSourceCodeAccess",
+      "Enabled": false
+    },
+    {
+      "Name": "LevelSequenceEditor",
+      "Enabled": false
+    },
+    {
+      "Name": "LightPropagationVolume",
+      "Enabled": false
+    },
+    {
+      "Name": "NullSourceCodeAccess",
+      "Enabled": false
+    },
+    {
+      "Name": "LinuxDeviceProfileSelector",
+      "Enabled": false
+    },
+    {
+      "Name": "MatineeToLevelSequence",
+      "Enabled": false
+    },
+    {
+      "Name": "MediaPlayerEditor",
+      "Enabled": false
+    },
+    {
+      "Name": "LocationServicesBPLibrary",
+      "Enabled": false
+    },
+    {
+      "Name": "MobilePatchingUtils",
+      "Enabled": false
+    },
+    {
+      "Name": "OculusVR",
+      "Enabled": false
+    },
+    {
+      "Name": "OnlineSubsystemIOS",
+      "Enabled": false
+    },
+    {
+      "Name": "OnlineSubsystemNull",
+      "Enabled": false
+    },
+    {
+      "Name": "OnlineSubsystemUtils",
+      "Enabled": false
+    },
+    {
+      "Name": "OnlineSubsystem",
+      "Enabled": false
+    },
+    {
+      "Name": "Paper2D",
+      "Enabled": false
+    },
+    {
+      "Name": "PerforceSourceControl",
+      "Enabled": false
+    },
+    {
+      "Name": "PhysXVehicles",
+      "Enabled": false
+    },
+    {
+      "Name": "SpeedTreeImporter",
+      "Enabled": false
+    },
+    {
+      "Name": "SteamVR",
+      "Enabled": false
+    },
+    {
+      "Name": "SubversionSourceControl",
+      "Enabled": false
+    },
+    {
+      "Name": "MobileLauncherProfileWizard",
+      "Enabled": false
+    },
+    {
+      "Name": "WindowsMoviePlayer",
+      "Enabled": false
+    },
+    {
+      "Name": "WmfMedia",
+      "Enabled": false
+    },
+    {
+      "Name": "XCodeSourceCodeAccess",
+      "Enabled": false
+    }
+  ],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
+	]
+}
